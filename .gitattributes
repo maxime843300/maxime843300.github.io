@@ -1,1 +1,2 @@
+.ply filter=lfs diff=lfs merge=lfs -text
 files/assets/240013778/1/scene.compressed.ply filter=lfs diff=lfs merge=lfs -text
